@@ -11,7 +11,7 @@
 
 4. Save the model and test it using input data from the terminal.
 
-5. Create a simple web page that includes:
+5. Create a simple web page that includes app.py using Flask or Streamlit:
 
    * The dataset name
    * An explanation of unsupervised learning
